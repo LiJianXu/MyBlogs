@@ -1,0 +1,10 @@
+registFrom  把指定的form 放入 resource下
+
+
+修改后的searchpanle没反应
+
+配置了login之后  默认会判断是否登录
+
+怎么取paramlist     默认会把paramlist放入sourcedoc中
+
+searchFromComment.jsp 负责整个查询业务逻辑
